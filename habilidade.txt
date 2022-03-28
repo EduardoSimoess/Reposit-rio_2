@@ -1,2 +1,4 @@
 Unix
 Bash 
+Javascript 
+html
